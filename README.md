@@ -26,6 +26,7 @@ git branch -a
 
 # Switch to a specific project branch
 git checkout <branch-name>
+cd <branch-name>
 ```
 
 ### Setting Up Project Environments
@@ -43,6 +44,7 @@ source venv/bin/activate
 # Install project dependencies
 pip install -r requirements.txt
 ```
+# Then refer the README.md which is available on <branch-name> folder
 
 ## Learning Path
 
