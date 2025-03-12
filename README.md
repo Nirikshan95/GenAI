@@ -61,6 +61,7 @@ This repository follows a structured learning path across different branches:
 | Branch | Description | Key Technologies |
 |--------|-------------|------------------|
 | **TinyLlama_Initial_Test** | Implementation of TinyLlama using Hugging Face for efficient chatbot experiences | LangChain  |
+| **simple_story_generator** | An simple story generator | LangChain  |
 
 ## Getting Started
 
