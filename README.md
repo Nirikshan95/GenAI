@@ -29,21 +29,6 @@ git checkout <branch-name>
 cd <branch-name>
 ```
 
-### Setting Up Project Environments
-
-```bash
-# Create a virtual environment for the current project
-python -m venv venv
-
-# Activate the virtual environment
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
-
-# Install project dependencies
-pip install -r requirements.txt
-```
 # Then refer the README.md which is available on <branch-name> folder
 
 ## Learning Path
