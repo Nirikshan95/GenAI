@@ -29,21 +29,6 @@ git checkout <branch-name>
 cd <branch-name>
 ```
 
-### Setting Up Project Environments
-
-```bash
-# Create a virtual environment for the current project
-python -m venv venv
-
-# Activate the virtual environment
-# On Windows
-venv\Scripts\activate
-# On macOS/Linux
-source venv/bin/activate
-
-# Install project dependencies
-pip install -r requirements.txt
-```
 # Then refer the README.md which is available on <branch-name> folder
 
 ## Learning Path
@@ -60,14 +45,14 @@ This repository follows a structured learning path across different branches:
 
 | Branch | Description | Key Technologies |
 |--------|-------------|------------------|
-| **TinyLlama_Initial_Test** | Implementation of TinyLlama using Hugging Face for efficient chatbot experiences | LangChain  |
+| **Initial_Test** | Implementation of DeepSeek-Prover-V2-671B using Hugging Face for efficient chatbot experiences | LangChain  |
 | **simple_story_generator** | An simple story generator | LangChain  |
 
 ## Getting Started
 
 For beginners, we recommend following this sequence:
 
-1. Start with the `TinyLlama_Initial_Test` branch to understand basic LLM inference
+1. Start with the `Initial_Test` branch to understand basic LLM inference
 
 Each branch includes sample notebooks and scripts with detailed comments to guide your learning.
 
