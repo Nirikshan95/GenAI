@@ -45,13 +45,13 @@ This repository follows a structured learning path across different branches:
 
 | Branch | Description | Key Technologies |
 |--------|-------------|------------------|
-| **TinyLlama_Initial_Test** | Implementation of TinyLlama using Hugging Face for efficient chatbot experiences | LangChain  |
+| **Initial_Test** | Implementation of DeepSeek-Prover-V2-671B using Hugging Face for efficient chatbot experiences | LangChain  |
 
 ## Getting Started
 
 For beginners, we recommend following this sequence:
 
-1. Start with the `TinyLlama_Initial_Test` branch to understand basic LLM inference
+1. Start with the `Initial_Test` branch to understand basic LLM inference
 
 Each branch includes sample notebooks and scripts with detailed comments to guide your learning.
 
